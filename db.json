@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "Electronic",
+      "freshness": "Refurbiched",
+      "price": 500,
+      "comment": "the best",
+      "date": "2022-03-18T23:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Samsung",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 100,
+      "comment": "OK",
+      "date": "2022-03-18T23:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
